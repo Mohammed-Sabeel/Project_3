@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.bg-cover {
+    background-attachment: static;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.navbar-brand{
+    width: 100px;
+}
+
+.bg{
+    height: 400px!important;
+    border-radius: 20px!important;
+}
+
+.bg-1{
+    border-radius: 15px!important;
+    width:100%;
+    /* background-attachment: static; */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:200px ;
+}
+
+.bg-1  .margin{
+    margin-top: 80px;
+}
+
+.author{
+    width: 40px;
+}
+
+.btn-primary{
+    border-radius: 50px 50px;
+}
+
+.hover:hover{
+    border-bottom: 1px solid black;
+}
