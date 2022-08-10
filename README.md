@@ -1,2 +1,2 @@
-# Project_3
+# Traveling
  https://mohammed-sabeel.github.io/Project_3/
